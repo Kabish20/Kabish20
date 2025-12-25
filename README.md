@@ -14,19 +14,19 @@ I enjoy solving real-world problems, debugging complex issues, and delivering en
 
 🛠️ Technical Skills
 💻 Programming Languages
-       Python, JavaScript
+       Python,  JavaScript
 
 ⚙️ Frameworks & Libraries
-        Django, Django REST Framework, React, Tailwind CSS, Bootstrap, HTML5, Node.js (basic)
+        Django,  Django REST Framework,  React,  Tailwind CSS,  Bootstrap,  HTML5,  Node.js (basic)
 
 🗄️ Databases
-       PostgreSQL, MySQL, MongoDB
+       PostgreSQL,  MySQL,  MongoDB
 
 🔧 Tools & Platforms
-      Git & GitHub, Postman, Visual Studio Code, Sublime Text, Cursor AI
+      Git & GitHub,  Postman,  Visual Studio Code,  Sublime Text,  Cursor AI
 
 🧠 Core Competencies
-      REST API Development, CRUD Operations,Object-Oriented Programming (OOP), API Testing & Debugging, Unit Testing, Version Control, Database Optimization
+      REST API Development,  CRUD Operations, Object-Oriented Programming (OOP),  API Testing & Debugging,  Unit Testing,  Version Control,  Database Optimization
 
 💼 Internship Experience
 Project Intern – Infosys Springboard (2024)
@@ -49,20 +49,8 @@ Description:
 * Integrated PostgreSQL with optimized queries for faster search and booking retrieval.
 * Successfully hosted the application on GoDaddy.
 
-🍰 Sweet Spot – Delivering Delight to Your Doorstep (API Development)
-
-Tech Stack:
-Python • Django • PostgreSQL • Bootstrap • Postman
-
-Description:
-* Designed and implemented RESTful APIs for an online dessert ordering system.
-* Enabled order placement, tracking, and delivery coordination.
-* Created and executed manual test cases for API validation.
-* Used Postman to test endpoints, status codes, response formats, and payload structures.
-
-Ensured data integrity, error handling, and smooth API workflows.
-
 🎓 Education
+
 B.E – Electronics and Communication Engineering
 Saranathan College of Engineering (2020 – 2024)   📊 CGPA: 8.30
 
