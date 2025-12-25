@@ -5,30 +5,31 @@ Full Stack Developer | Django • React
 📞 9003878494
 📧 kabishme@gmail.com
 
-🔗 LinkedIn  💻 GitHub
+🔗 LinkedIn : https://www.linkedin.com/in/kabish-m-e-b194aa261/ 
+💻 GitHub : https://github.com/Kabish20
 
-🚀 About Me
+🚀 About Me :
       I am a motivated Full Stack Developer with hands-on experience in building scalable web applications using Django, React, REST APIs, Python, and PostgreSQL. I specialize in developing robust backend services, responsive front-end interfaces, and optimized database designs.
 
 I enjoy solving real-world problems, debugging complex issues, and delivering end-to-end solutions—from database design to API development and UI implementation.
 
-🛠️ Technical Skills
-💻 Programming Languages
+🛠️ Technical Skills:
+💻 Programming Languages :
        Python,  JavaScript
 
-⚙️ Frameworks & Libraries
+⚙️ Frameworks & Libraries :
         Django,  Django REST Framework,  React,  Tailwind CSS,  Bootstrap,  HTML5,  Node.js (basic)
 
-🗄️ Databases
+🗄️ Databases :
        PostgreSQL,  MySQL,  MongoDB
 
-🔧 Tools & Platforms
+🔧 Tools & Platforms :
       Git & GitHub,  Postman,  Visual Studio Code,  Sublime Text,  Cursor AI
 
-🧠 Core Competencies
+🧠 Core Competencies :
       REST API Development,  CRUD Operations, Object-Oriented Programming (OOP),  API Testing & Debugging,  Unit Testing,  Version Control,  Database Optimization
 
-💼 Internship Experience
+💼 Internship Experience : 
 Project Intern – Infosys Springboard (2024)
 
 * Completed a 2-month internship focused on backend development.
@@ -36,7 +37,7 @@ Project Intern – Infosys Springboard (2024)
 * Performed API testing, debugging, and validation using Postman.
 * Gained hands-on experience in full API lifecycle management.
 
-📌 Projects
+📌 Projects :
 ✈️ Travel Holidays – Trip Planning, Booking & Package Management
 
 Tech Stack:
