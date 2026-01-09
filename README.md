@@ -30,7 +30,7 @@ I enjoy solving real-world problems, debugging complex issues, and delivering en
       REST API Development,  CRUD Operations, Object-Oriented Programming (OOP),  API Testing & Debugging,  Unit Testing,  Version Control,  Database Optimization
 
 💼Experience : 
- Full Stack Developer – DCX Works(NOV-2025)
+ Full Stack Developer – DCX Works(NOV-2025) - Present
 
 * Developed and maintained a full-stack travel & holidays web application using React, JavaScript, HTML,and Tailwind CSS for a responsive and user-friendly frontend. 
 * Designed and implemented RESTful APIs using Django and Python to handle bookings, destinations, user authentication, and admin operations. 
