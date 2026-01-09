@@ -29,13 +29,13 @@ I enjoy solving real-world problems, debugging complex issues, and delivering en
 🧠 Core Competencies :
       REST API Development,  CRUD Operations, Object-Oriented Programming (OOP),  API Testing & Debugging,  Unit Testing,  Version Control,  Database Optimization
 
-💼 Internship Experience : 
-Project Intern – Infosys Springboard (2024)
+💼Experience : 
+ Full Stack Developer – DCX Works(NOV-2025)
 
-* Completed a 2-month internship focused on backend development.
-* Designed and developed RESTful APIs using Python & Django REST Framework.
-* Performed API testing, debugging, and validation using Postman.
-* Gained hands-on experience in full API lifecycle management.
+* Developed and maintained a full-stack travel & holidays web application using React, JavaScript, HTML,and Tailwind CSS for a responsive and user-friendly frontend. 
+* Designed and implemented RESTful APIs using Django and Python to handle bookings, destinations, user authentication, and admin operations. 
+* Integrated PostgreSQL database for managing users, travel packages, bookings, and payment-related data with optimized queries. 
+* Collaborated on frontend–backend integration, ensuring seamless data flow between React frontend and Django backend APIs. 
 
 📌 Projects :
 ✈️ Travel Holidays – Trip Planning, Booking & Package Management
