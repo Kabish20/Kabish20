@@ -57,10 +57,10 @@ Saranathan College of Engineering (2020 – 2024)   📊 CGPA: 8.30
 
 📜 Certifications
 
-Python & Django Development – Systech Groups
-SQL and Relational Databases 101 – IBM Cognitive Class
-Data Analytics Essentials – Cisco Networking Academy
-JavaScript for Beginners – Udemy
+* Python & Django Development – Systech Groups
+* SQL and Relational Databases 101 – IBM Cognitive Class
+* Data Analytics Essentials – Cisco Networking Academy
+* JavaScript for Beginners – Udemy
 
 🌟 Career Objective - To work as a Full Stack Developer in a growth-oriented organization where I can apply my technical skills, continuously learn new technologies, and create impactful digital solutions.
 
