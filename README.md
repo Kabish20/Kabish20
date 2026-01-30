@@ -30,15 +30,7 @@ I enjoy solving real-world problems, debugging complex issues, and delivering en
       Git & GitHub,  Postman,  Visual Studio Code,  Sublime Text,  Cursor AI
 
 🧠 Core Competencies :
-      REST API Development,  CRUD Operations, Object-Oriented Programming (OOP),  API Testing & Debugging,  Unit Testing,  Version Control,  Database Optimization
-
-💼Experience : 
- Full Stack Developer – DCX Works(NOV-2025) - Present
-
-* Developed and maintained a full-stack travel & holidays web application using React, JavaScript, HTML,and Tailwind CSS for a responsive and user-friendly frontend. 
-* Designed and implemented RESTful APIs using Django and Python to handle bookings, destinations, user authentication, and admin operations. 
-* Integrated PostgreSQL database for managing users, travel packages, bookings, and payment-related data with optimized queries. 
-* Collaborated on frontend–backend integration, ensuring seamless data flow between React frontend and Django backend APIs. 
+      REST API Development,  CRUD Operations, Object-Oriented Programming (OOP),  API Testing & Debugging,  Unit Testing,  Version Control,  Database Optimization 
 
 📌 Projects :
 ✈️ Travel Holidays – Trip Planning, Booking & Package Management
