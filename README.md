@@ -18,6 +18,20 @@ software engineer
 
 I enjoy solving real-world problems, debugging complex issues, and delivering end-to-end solutions—from database design to API development and UI implementation.
 
+
+PROFESSIONAL EXPERIENCE:
+
+Full Stack Developer
+DCXworks | Nov 2025 – Present | Hybrid
+
+Developed and maintained full-stack web applications using Django, React, and PostgreSQL
+
+Designed and implemented RESTful APIs for authentication, data handling, and business workflows
+
+Optimized backend logic and database queries to improve application performance
+
+Collaborated with cross-functional teams in a remote development environment
+
 🛠️ Technical Skills:
 💻 Programming Languages :
        Python,  JavaScript
