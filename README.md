@@ -1,6 +1,6 @@
 👨‍💻 KABISH M E
 
-software engineer
+FULL STACK DEVELOPER
 
 
 
