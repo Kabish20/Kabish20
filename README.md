@@ -1,41 +1,48 @@
 
-<h1 align="center">
-Hi 👋, I'm <span style="color:#00C9FF;">Kabish M. Elangovan</span>
-</h1>
+<!-- ===================== HEADER ===================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Kabish%20M.%20Elangovan&fontAlign=50&fontAlignY=40&fontSize=55&desc=Full%20Stack%20Developer%20|%20Python%20|%20Django%20|%20React.js&descAlign=50&descAlignY=60"/>
+</p>
+
+<h1 align="center">Hi 👋 I'm Kabish M. Elangovan</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer | Python • Django • React.js • PostgreSQL
+Python • Django • React.js • PostgreSQL • REST API Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1000&color=00C9FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Python+%7C+Django+%7C+React.js;REST+API+Developer;Backend+Engineer;Open+Source+Enthusiast;Always+Learning+New+Technologies" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Python+%7C+Django+REST+Framework;React.js+Developer;Backend+Engineer;REST+API+Specialist;Always+Learning+New+Technologies"/>
+
 </p>
 
 ---
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Kabish20&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Kabish20&style=for-the-badge"/>
 
 <img src="https://img.shields.io/github/followers/Kabish20?style=for-the-badge&logo=github"/>
 
-<img src="https://img.shields.io/github/stars/Kabish20?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/Kabish20?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Open%20to%20Work-YES-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20to%20Work-Available-success?style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-💻 Full Stack Developer with **1+ years of professional experience** building scalable web applications using **Python, Django, Django REST Framework (DRF), React.js, JavaScript, and PostgreSQL**.
+I'm a Full Stack Developer with professional experience building scalable web applications using Python, Django, Django REST Framework, React.js, JavaScript, and PostgreSQL.
 
-⚡ Passionate about building secure REST APIs, responsive user interfaces, optimized backend architectures, and production-ready applications.
+I enjoy building secure REST APIs, designing optimized database architectures, developing responsive user interfaces, and solving real-world engineering problems.
 
-🎯 I enjoy solving real-world problems, debugging complex systems, and continuously learning modern technologies.
+- 🔭 Currently working as a Full Stack Developer
+- 🌱 Learning Advanced Django, System Design, Docker & AWS
+- 💬 Ask me about Python, Django, React.js and REST APIs
+- ⚡ Passionate about Backend Engineering
 
 ---
 
@@ -56,7 +63,7 @@ Hi 👋, I'm <span style="color:#00C9FF;">Kabish M. Elangovan</span>
 </a>
 
 <a href="https://portfolio-kabish.onrender.com/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit-00C853?style=for-the-badge"/>
 </a>
 
 </p>
@@ -67,7 +74,7 @@ Hi 👋, I'm <span style="color:#00C9FF;">Kabish M. Elangovan</span>
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,react,javascript,nodejs,html,css,tailwind,bootstrap,postgres,mysql,mongodb,git,github,docker,linux,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=python,django,react,javascript,tailwind,nodejs,html,css,postgres,mysql,mongodb,git,github,docker,linux,vscode,postman"/>
 
 </p>
 
@@ -75,18 +82,20 @@ Hi 👋, I'm <span style="color:#00C9FF;">Kabish M. Elangovan</span>
 
 # 🚀 Featured Project
 
-## ✈️ Travel Holidays – Trip Planning & Booking Platform
+## ✈️ Travel Holidays – Trip Planning, Booking & Package Management
 
-### 🔥 Features
+### Tech Stack
 
-- Secure JWT Authentication
-- RESTful API Development
-- Package Management
-- Booking Workflow
-- PostgreSQL Optimization
-- Responsive React UI
-- Django REST Framework
-- Production Deployment
+Python • Django • Django REST Framework • React.js • PostgreSQL • Tailwind CSS
+
+### Highlights
+
+- Built a scalable full-stack travel booking platform.
+- Developed secure REST APIs for authentication and bookings.
+- Designed responsive React interfaces.
+- Optimized PostgreSQL queries.
+- Implemented CRUD operations using DRF.
+- Successfully deployed the application.
 
 ---
 
@@ -94,9 +103,9 @@ Hi 👋, I'm <span style="color:#00C9FF;">Kabish M. Elangovan</span>
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kabish20&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Kabish20&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Kabish20&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Kabish20&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -116,7 +125,7 @@ Hi 👋, I'm <span style="color:#00C9FF;">Kabish M. Elangovan</span>
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Kabish20&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Kabish20&theme=tokyonight&no-frame=true&column=4"/>
 
 </p>
 
@@ -134,7 +143,7 @@ Hi 👋, I'm <span style="color:#00C9FF;">Kabish M. Elangovan</span>
 
 # 🐍 Contribution Snake
 
-> **Enable GitHub Actions** to generate this animation.
+> Enable GitHub Actions to generate this automatically.
 
 <p align="center">
 
@@ -146,37 +155,32 @@ Hi 👋, I'm <span style="color:#00C9FF;">Kabish M. Elangovan</span>
 
 # 🏅 Certifications
 
-🏆 Python & Django Development — Systech Groups
-
-🏆 SQL and Relational Databases 101 — IBM Cognitive Class
-
-🏆 Data Analytics Essentials — Cisco Networking Academy
-
-🏆 JavaScript for Beginners — Udemy
+- Python & Django Development — Systech Groups
+- SQL and Relational Databases 101 — IBM Cognitive Class
+- Data Analytics Essentials — Cisco Networking Academy
+- JavaScript for Beginners — Udemy
 
 ---
 
-# 🎯 Career Objective
+# 🎓 Education
 
-To contribute as a **Full Stack Developer** by building scalable, secure, and high-performance web applications while continuously learning modern technologies and solving challenging business problems.
+**Bachelor of Engineering (B.E.) – Electronics & Communication Engineering**
 
----
+Saranathan College of Engineering
 
-# 💡 Quote
-
-> *"First, solve the problem. Then, write the code."* — John Johnson
+CGPA: **8.30 / 10**
 
 ---
 
-# ⚡ Fun Fact
+# 💬 Quote
 
-☕ I can spend hours debugging code... and somehow enjoy it! 😄
+> "First, solve the problem. Then, write the code."
 
 ---
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
 
 </p>
 
