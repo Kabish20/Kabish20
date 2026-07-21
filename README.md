@@ -56,15 +56,6 @@ Along with backend development, I have experience with **React.js and JavaScript
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kabish20&show_icons=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabish20&layout=compact&hide_border=true" />
-</p>
-
----
-
 ## 🎓 Education
 
 **Bachelor of Engineering (B.E.) — Electronics & Communication Engineering**
@@ -85,8 +76,6 @@ Saranathan College of Engineering, Trichy
 ## 📫 Connect With Me
 
 * **LinkedIn:** [www.linkedin.com/in/kabish-fullstack](http://www.linkedin.com/in/kabish-fullstack)
-* **GitHub:** github.com/Kabish20
-* **Portfolio:** portfolio-kabish.onrender.com
 * **Email:** [kabishme@gmail.com](mailto:kabishme@gmail.com)
 
 ---
